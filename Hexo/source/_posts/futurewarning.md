@@ -3,6 +3,7 @@ title: Python使用逻辑回归提示FutureWarning
 date: 2019-04-08 23:34:42
 tags:
   -读书笔记
+  
   -python
 ---
 ## Python使用逻辑回归提示FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
