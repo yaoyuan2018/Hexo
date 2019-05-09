@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Y_uan的个人博客
+title: YY是个呆逼
 subtitle:
-description: 记录生活和代码学习情况，一天天积累！
+description: Coding碎碎念
 keywords:
 author: Y_uan
 language: zh-Hans
@@ -77,7 +77,7 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
+deploy: 
   type: git
   repo: git@github.com:yaoyuan2018/yaoyuan2018.github.io.git
   branch: master
